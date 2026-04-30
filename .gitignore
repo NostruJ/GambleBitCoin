@@ -31,7 +31,7 @@ Thumbs.db
 *~
 
 # Docker
-.dockerignore
+# .dockerignore is needed for Docker builds
 
 # Project specific
 env/
